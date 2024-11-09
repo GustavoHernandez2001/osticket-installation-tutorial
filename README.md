@@ -20,7 +20,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Azure Subscription/ Azure Free trial
 - <a href="https://github.com/RonaldCarter/PHPManager/releases/tag/V1.5.0">PHP Manager</a>
 - <a href="https://www.iis.net/downloads/microsoft/url-rewrite">Rewrite Module</a>
-- Item 4
+- <a href="https://windows.php.net/downloads/releases/">PHP Distribution Package</a>
 - Item 5
 
 <h2>Installation Steps</h2>
@@ -51,17 +51,33 @@ Start by opening the Control Panel, then click on Programs, followed by Programs
 </p>
 
 <p>Step 4:</p>
-<p>Download the PHP Manager application from the provided list of prerequisites and follow the installation instructions to set it up on your system, ensuring all necessary configurations are completed for proper functionality..</p>
+<p>Download the PHP Manager application from the provided list of prerequisites and follow the installation instructions to set it up on your system, ensuring all necessary configurations are completed for proper functionality.</p>
 <img src="https://i.imgur.com/0WHDEVT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p>Step 5:</p>
-<p>Download the application from the provided list of requisites, making sure to select the 64-bit version that corresponds to the language of your preference, and follow the installation instructions to set it up on your system, ensuring all necessary configurations are completed for proper functionality.</p>
+<p>Download the rewrite module from the provided list of requisites, making sure to select the 64-bit version that corresponds to the language of your preference, and follow the installation instructions to set it up on your system, ensuring all necessary configurations are completed for proper functionality.</p>
 <img src="https://i.imgur.com/Avgmr7E.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p>Step 6:</p>
 <p>Navigate to the C drive by opening File Explorer and selecting This PC or Computer. Once you are in the C drive, right-click in an empty space and choose New > Folder. Name the new folder PHP and press Enter to create the directory.</p>
 <img src="https://i.imgur.com/7QUVVp3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/ITojMXZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p>Step 7:</p>
+<p>Navigate to the C drive by opening File Explorer and selecting This PC or Computer. Once you are in the C drive, right-click in an empty space and choose New > Folder. Name the new folder PHP and press Enter to create the directory.</p>
+<img src="https://i.imgur.com/7QUVVp3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p>Step 8:</p>
+<p>Download the PHP Distribution Package from the provided list of requisites</p>
+<img src="https://i.imgur.com/bi0xVeV.png" height = "60%" width="60%" alt="Disk Sanitization Steps"/>
+
+<p>Step 9:</p>
+<p>Right-click on the PHP distribution package, select Extract All..., and choose the PHP directory on your C drive as the destination for the extracted files.</p>
+<img src="https://i.imgur.com/S5Mzq6F.png" height = "60%" width="60%" alt="Disk Sanitization Steps"/>
+
+
+
+
 
 
 <br />
