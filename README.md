@@ -18,8 +18,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Azure Subscription/ Azure Free trial
-- Item 2
-- Item 3
+- <a href="https://github.com/RonaldCarter/PHPManager/releases/tag/V1.5.0">PHP Manager</a>
+- <a href="https://www.iis.net/downloads/microsoft/url-rewrite">Rewrite Module</a>
 - Item 4
 - Item 5
 
@@ -44,9 +44,21 @@ Then, open Remote Desktop Protocol (RDP) on your computer, enter the IP address,
 
 <p>Step 3:</p>
 <p>
-Start by opening the Control Panel, then click on Programs, followed by Programs and Features. Click on Turn Windows features on or off, check the box next to Internet Information Services (IIS), and click OK to enable it.
+Start by opening the Control Panel, then click on Programs, followed by Programs and Features. Click on Turn Windows features on or off, check the box next to Internet Information Services (IIS), then expand World Wide Web Services > Application Development Features, and check the box next to CGI. Finally, click OK to enable IIS and CGI.
+<p/>
 <p>
-<img src="https://i.imgur.com/kEcjx4I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ybAhzcJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+<p>Step 4:</p>
+<p>Download the PHP Manager application from the provided list of prerequisites and follow the installation instructions to set it up on your system, ensuring all necessary configurations are completed for proper functionality..</p>
+<img src="https://i.imgur.com/0WHDEVT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p>Step 5:</p>
+<p>Download the application from the provided list of requisites, making sure to select the 64-bit version that corresponds to the language of your preference, and follow the installation instructions to set it up on your system, ensuring all necessary configurations are completed for proper functionality.</p>
+<img src="https://i.imgur.com/Avgmr7E.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+
 
 <br />
