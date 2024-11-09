@@ -58,7 +58,10 @@ Start by opening the Control Panel, then click on Programs, followed by Programs
 <p>Download the application from the provided list of requisites, making sure to select the 64-bit version that corresponds to the language of your preference, and follow the installation instructions to set it up on your system, ensuring all necessary configurations are completed for proper functionality.</p>
 <img src="https://i.imgur.com/Avgmr7E.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-
+<p>Step 6:</p>
+<p>Navigate to the C drive by opening File Explorer and selecting This PC or Computer. Once you are in the C drive, right-click in an empty space and choose New > Folder. Name the new folder PHP and press Enter to create the directory.</p>
+<img src="https://i.imgur.com/7QUVVp3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ITojMXZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 <br />
