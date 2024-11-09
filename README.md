@@ -21,7 +21,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - <a href="https://github.com/RonaldCarter/PHPManager/releases/tag/V1.5.0">PHP Manager</a>
 - <a href="https://www.iis.net/downloads/microsoft/url-rewrite">Rewrite Module</a>
 - <a href="https://windows.php.net/downloads/releases/">PHP Distribution Package</a>
-- Item 5
+- <a href="https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#latest-microsoft-visual-c-redistributable-version">Visual C++ Redistributable</a>
 
 <h2>Installation Steps</h2>
 <p>Step 1:</p>
@@ -68,12 +68,16 @@ Start by opening the Control Panel, then click on Programs, followed by Programs
 <img src="https://i.imgur.com/7QUVVp3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p>Step 8:</p>
-<p>Download the PHP Distribution Package from the provided list of requisites</p>
-<img src="https://i.imgur.com/bi0xVeV.png" height = "60%" width="60%" alt="Disk Sanitization Steps"/>
+<p>Download the latest 32-bit PHP distribution package from the official PHP website for Windows, ensuring it matches your system architecture. </p>
+<img src="https://i.imgur.com/RZgaZYL.png" height = "60%" width="60%" alt="Disk Sanitization Steps"/>
 
 <p>Step 9:</p>
 <p>Right-click on the PHP distribution package, select Extract All..., and choose the PHP directory on your C drive as the destination for the extracted files.</p>
 <img src="https://i.imgur.com/S5Mzq6F.png" height = "60%" width="60%" alt="Disk Sanitization Steps"/>
+
+<p>Step 10:</p>
+<p>Download the latest supported Microsoft Visual C++ Redistributable</p>
+<img src="https://i.imgur.com/0gfo0ch.png" height = "60%" width="60%" alt="Disk Sanitization Steps"/>
 
 
 
