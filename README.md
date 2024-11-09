@@ -17,7 +17,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Azure Subscription
+- Azure Subscription/ Azure Free trial
 - Item 2
 - Item 3
 - Item 4
@@ -26,10 +26,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 <p>Step 1:</p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="[https://i.imgur.com/DJmEXEB.png](https://i.imgur.com/11la5cH.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Create a Windows 10 Virtual Machine on Azure. To tailor your specific requirements, you can configure a virtual machine with your preferred settings, including image size, memory, vCPU count, OS disk type, and more.
+Navigate the Azure Portal to create a Windows 10 Virtual Machine. To tailor your specific requirements, you can configure a virtual machine with your preferred settings, including image size, memory, vCPU count, OS disk type, and more. Be sure to write down your virtual machine's username and password for future access.
 </p>
 <br />
 
