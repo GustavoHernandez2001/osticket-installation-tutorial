@@ -26,25 +26,27 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 <p>Step 1:</p>
 <p>
-<img src="[https://i.imgur.com/DJmEXEB.png](https://i.imgur.com/11la5cH.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 Navigate the Azure Portal to create a Windows 10 Virtual Machine. To tailor your specific requirements, you can configure a virtual machine with your preferred settings, including image size, memory, vCPU count, OS disk type, and more. Be sure to write down your virtual machine's username and password for future access.
 </p>
-<br />
-
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/11la5cH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
+<p>Step 2:
+<p>To find your virtual machine's IP address, open Virtual Machines in the Azure portal, select the desired VM, and go to the Overview tab. Write down the Public IP address displayed there.
+
+Then, open Remote Desktop Protocol (RDP) on your computer, enter the IP address, and use the username and password you saved earlier to log in to your virtual machine.
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hwhcJAr.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
+<br />
+
+<p>Step 3:</p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Start by opening the Control Panel, then click on Programs, followed by Programs and Features. Click on Turn Windows features on or off, check the box next to Internet Information Services (IIS), and click OK to enable it.
+<p>
+<img src="https://i.imgur.com/kEcjx4I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
 <br />
