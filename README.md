@@ -76,7 +76,7 @@ Start by opening the Control Panel, then click on Programs, followed by Programs
 <img src="https://i.imgur.com/S5Mzq6F.png" height = "60%" width="60%" alt="Disk Sanitization Steps"/>
 
 <p>Step 10:</p>
-<p>Download the latest supported Microsoft Visual C++ Redistributable</p>
+<p>Download the latest supported Microsoft Visual C++ Redistributable from the provided list of prerequisites, then follow the installation instructions to set it up on your system, ensuring that all necessary configurations are completed for proper functionality."</p>
 <img src="https://i.imgur.com/0gfo0ch.png" height = "60%" width="60%" alt="Disk Sanitization Steps"/>
 
 
