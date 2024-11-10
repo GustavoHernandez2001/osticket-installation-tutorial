@@ -101,5 +101,10 @@ Start by opening the Control Panel, then click on Programs, followed by Programs
 <img src="https://i.imgur.com/zm1btvf.png" height = "90%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p>Step 15</p>
-<p></p>
+<p>Reload the IIS by pressing stop then start</p>
+<img src="https://i.imgur.com/Lyxy5IF.png" height = "90%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+
+<p>Step 16</p>
+<p></p>
+<img src="" height = "90%" width="80%" alt="Disk Sanitization Steps"/>
