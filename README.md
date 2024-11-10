@@ -22,6 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - <a href="https://www.iis.net/downloads/microsoft/url-rewrite">Rewrite Module</a>
 - <a href="https://windows.php.net/downloads/releases/">PHP Distribution Package</a>
 - <a href="https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#latest-microsoft-visual-c-redistributable-version">Visual C++ Redistributable</a>
+- <a href="https://downloads.mysql.com/archives/community/">MySQL</a>
 
 <h2>Installation Steps</h2>
 <p>Step 1:</p>
@@ -79,6 +80,13 @@ Start by opening the Control Panel, then click on Programs, followed by Programs
 <p>Download the latest supported Microsoft Visual C++ Redistributable from the provided list of prerequisites, then follow the installation instructions to set it up on your system, ensuring that all necessary configurations are completed for proper functionality."</p>
 <img src="https://i.imgur.com/0gfo0ch.png" height = "60%" width="60%" alt="Disk Sanitization Steps"/>
 
+<p>Step 11:</p>
+<p>Download the MySQL from the provided list of requisites, making sure to select the 5.5.62 version, and follow the installation instructions making sure to select a typical setup.</p>
+<img src="https://i.imgur.com/rJVqVYW.png" height = "60%" width="60%" alt="Disk Sanitization Steps"/>
+
+<p>Step 12:</p>
+<p>Open the MySQL application and select Standard Configuration. Next, choose Install as a Windows Service and select Modify Security Settings to create a root password. Be sure to write down your root password. Finally, click Execute to start the setup and Finish to complete the configuration process.</p>
+<img src="" height = "60%" width="60%" alt="Disk Sanitization Steps"/>
 
 
 
