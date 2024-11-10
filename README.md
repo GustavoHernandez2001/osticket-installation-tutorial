@@ -165,15 +165,17 @@ Start by opening the Control Panel, then click on Programs, followed by Programs
 <img src="https://i.imgur.com/CpMxOb4.png" height = "50%" width="50%" alt="Disk Sanitization Steps"/>
 <p> In the Permission Entry window, click Select a principal to choose a user or group to assign permissions.</p>
 <img src="https://i.imgur.com/lt0HWlH.png" height = "50%" width="50%" alt="Disk Sanitization Steps"/>
-<p>For the sake of this lab we will enter the object name as everyone. However, this is not recommended in real life business practice. Afte clicking check names, click ok.</p>
+<p>For the sake of this lab we will enter the object name as everyone. However, this is not recommended in real-life business practice. Afte clicking check names, click ok.</p>
 <img src="https://i.imgur.com/dK6NHQo.png" height = "50%" width="50%" alt="Disk Sanitization Steps"/>
-
-
-
-
+<p>Next check the full control box and click ok.</p>
+<img src="https://i.imgur.com/F6IVIaX.png" height = "50%" width="50%" alt="Disk Sanitization Steps"/>
+<p>Click apply and ok</p>
+<img src="https://i.imgur.com/PCbm0GR.png" height = "50%" width="50%" alt="Disk Sanitization Steps"/>
+<p>Click Ok</p>
+<img src="https://i.imgur.com/b51Mva2.png" height = "50%" width="50%" alt="Disk Sanitization Steps"/>
 
 <p>Step 24:</p>
-
+<p></p>
 
 
 
