@@ -104,7 +104,7 @@ Start by opening the Control Panel, then click on Programs, followed by Programs
 <p>Step 15:</p>
 <p>Reload the IIS by pressing stop then start</p>
 <img src="https://i.imgur.com/Lyxy5IF.png" height = "90%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+
 
 <p>Step 16:</p>
 <p>Click on the </p>
@@ -112,3 +112,30 @@ Start by opening the Control Panel, then click on Programs, followed by Programs
 <img src="https://i.imgur.com/nsuZtao.png" height = "90%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p>Step 17:</p>
+<p>Next we will extract the osTicket Installation files we just downloaded</p>
+<img src="https://i.imgur.com/zGkNkEE.png" height = "90%" width="80%" alt="Disk Sanitization Steps"/>
+<p>You should be left with two files like the image below</p>
+<img src="https://i.imgur.com/JpeU3pp.png" height = "90%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p>Step 18:</p>
+<p>Within the osTicket Installation files we will copy the upload folder and paste it into c:\inetpub\wwwroot</p>
+<p>It should look like the image below.</p>
+<img src="https://i.imgur.com/0d2TWcm.png" height = "90%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+<p>Step 19:</p>
+<p> Right-click the upload file we just copied and pasted. And rename the upload file to "osTicket"</p>
+<img src="https://i.imgur.com/AlikC1Z.png" height = "90%" width="80%" alt="Disk Sanitization Steps"/>
+<p>It should look like the image below</p>
+<img src="https://i.imgur.com/6As8Oef.png" height = "90%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p>Step 20:</p>
+<p></p>
+
+
+
+
+
+
+
+<br />
