@@ -23,6 +23,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - <a href="https://windows.php.net/downloads/releases/">PHP Distribution Package</a>
 - <a href="https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#latest-microsoft-visual-c-redistributable-version">Visual C++ Redistributable</a>
 - <a href="https://downloads.mysql.com/archives/community/">MySQL</a>
+- <a href="https://osticket.com/download/">osTicket</a>
 
 <h2>Installation Steps</h2>
 <p>Step 1:</p>
@@ -100,11 +101,14 @@ Start by opening the Control Panel, then click on Programs, followed by Programs
 <img src="https://i.imgur.com/xAyytUQ.png" height = "90%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/zm1btvf.png" height = "90%" width="80%" alt="Disk Sanitization Steps"/>
 
-<p>Step 15</p>
+<p>Step 15:</p>
 <p>Reload the IIS by pressing stop then start</p>
 <img src="https://i.imgur.com/Lyxy5IF.png" height = "90%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
-<p>Step 16</p>
-<p></p>
-<img src="" height = "90%" width="80%" alt="Disk Sanitization Steps"/>
+<p>Step 16:</p>
+<p>Click on the </p>
+<img src="https://i.imgur.com/8OEk1yE.png" height = "90%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nsuZtao.png" height = "90%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p>Step 17:</p>
