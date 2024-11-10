@@ -86,10 +86,20 @@ Start by opening the Control Panel, then click on Programs, followed by Programs
 
 <p>Step 12:</p>
 <p>Open the MySQL application and select Standard Configuration. Next, choose Install as a Windows Service and select Modify Security Settings to create a root password. Be sure to write down your root password. Finally, click Execute to start the setup and Finish to complete the configuration process.</p>
-<img src="" height = "60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/D3wnvYm.png" height = "60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/BBTb6SD.png" height = "60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xFeQDgn.png" height = "60%" width="60%" alt="Disk Sanitization Steps"/>
 
+<p>Step 13:</p>
+<p>Open IIS as an administrator.</p>
+<img src="https://i.imgur.com/u0duRYQ.png" height = "80%" width="80%" alt="Disk Sanitization Steps"/>
 
+<p>Step 14:</p>
+<p>Click the PHP Manager and then register a new PHP version and select the php-cgi.exe in the PHP folder.</p>
+<img src="https://i.imgur.com/MxlOkoJ.png" height = "90%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xAyytUQ.png" height = "90%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zm1btvf.png" height = "90%" width="80%" alt="Disk Sanitization Steps"/>
 
-
-
+<p>Step 15</p>
+<p></p>
 <br />
