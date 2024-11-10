@@ -130,7 +130,74 @@ Start by opening the Control Panel, then click on Programs, followed by Programs
 <img src="https://i.imgur.com/6As8Oef.png" height = "90%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p>Step 20:</p>
-<p></p>
+<p>Open the IIS manager as an admin and reload the IIS by pressing stop and then start</p>
+<img src="https://i.imgur.com/Lyxy5IF.png" height = "90%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p>Step 21:</p>
+<p>Make sure on the left-hand side you expand the osTicket-vm, then expand the sites folder, then expand the Default Web Site. Finally, click on the osTicket Folder</p>
+<img src="https://i.imgur.com/BF6RjGn.png" height = "70%" width="70%" alt="Disk Sanitization Steps"/>
+<p>Next click on the "Browse*.80(http)"</p>
+<img src="https://i.imgur.com/d3pPrQp.png" height = "70%" width="70%" alt="Disk Sanitization Steps"/>
+<p>You should get to a website that looks like the image below</p>
+<img src="https://i.imgur.com/l7uAhhV.png" height = "70%" width="70%" alt="Disk Sanitization Steps"/>
+
+<p>Step 22:</p>
+<p>Go back to the IIS. Make sure you are still on osTicket folder and click PHP Manager</p>
+<img src="https://i.imgur.com/BexTjJ3.png" height = "70%" width="70%" alt="Disk Sanitization Steps"/>
+<p>Next click on the enable or disable and extension</p>
+<img src="https://i.imgur.com/Tz41mmi.png" height = "70%" width="70%" alt="Disk Sanitization Steps"/>
+<p>Right-click and enable the following extensions:</p>
+<p>- php_imap.dll</p>
+<p>- php_intl.dll</p>
+<p>- php_opcache.dll</p>
+<img src="https://i.imgur.com/8NH5pyx.png" height = "70%" width="70%" alt="Disk Sanitization Steps"/>
+<p>Refresh the osTicket web browser to see the changes. If not try to reload the IIS manager.</p>
+
+<p>Step 23:</p>
+<p>First, open File Explorer on your computer. In the address bar at the top, type C:\inetpub and press Enter. Once there, open the wwwroot folder, then navigate to the osTicket folder inside it. Finally, open the include folder. Now you’re in C:\inetpub\wwwroot\osTicket\include.</p>
+<p>Once in the include folder, right click the "ost-sampleconfig.php" and rename it to "ost-config.php. When done it should look like the example below</p>
+<img src="https://i.imgur.com/CNd129C.png" height = "70%" width="70%" alt="Disk Sanitization Steps"/>
+<p>Right-click a file and click Properties. You will see details about the file, including its size, type, location, date created, and date modified. Click the Security tab and click Advanced. </p>
+<img src="https://i.imgur.com/xU3ZbvZ.png" height = "50%" width="50%" alt="Disk Sanitization Steps"/>
+<p>This will open the Advanced Security Settings window, where you can adjust detailed permissions, view the file's ownership, and manage special permissions and auditing settings. Click Disable inheritance in the Advanced Security Settings window. This option will let you manage permissions independently by stopping the file or folder from automatically inheriting permissions from its parent folder. After clicking Disable inheritance, select Remove all inherited permissions from this object.</p>
+<img src="https://i.imgur.com/7zfVs4c.png" height = "50%" width="50%" alt="Disk Sanitization Steps"/>
+<p>Next, click Add to create a new permission entry.</p>
+<img src="https://i.imgur.com/CpMxOb4.png" height = "50%" width="50%" alt="Disk Sanitization Steps"/>
+<p> In the Permission Entry window, click Select a principal to choose a user or group to assign permissions.</p>
+<img src="https://i.imgur.com/lt0HWlH.png" height = "50%" width="50%" alt="Disk Sanitization Steps"/>
+<p>For the sake of this lab we will enter the object name as everyone. However, this is not recommended in real life business practice. Afte clicking check names, click ok.</p>
+<img src="https://i.imgur.com/dK6NHQo.png" height = "50%" width="50%" alt="Disk Sanitization Steps"/>
+
+
+
+
+
+<p>Step 24:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
