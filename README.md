@@ -80,16 +80,27 @@ Start by opening the Control Panel, then click on Programs, followed by Programs
 <img src="https://i.imgur.com/AD3mXD1.png" height = "60%" width="60%" alt="Disk Sanitization Steps"/>
 
 <p>Step 10:</p>
-<p>Download the latest MySQL from the provided list of requisites, and follow the installation instructions making sure to select a typical setup.</p>
+<p>Download the latest MySQL from the provided list of requisites.</p>
 <img src="https://i.imgur.com/KT0rBr8.png" height = "60%" width="60%" alt="Disk Sanitization Steps"/>
+<p>Once in the application setup click next.</p>
+<img src="https://i.imgur.com/JFh2QYg.png" height = "60%" width="60%" alt="Disk Sanitization Steps"/>
+<p>Accept the terms in the license agreements and click next.</p>
+<img src="https://i.imgur.com/dthkDEV.png" height = "60%" width="60%" alt="Disk Sanitization Steps"/>
+<p>Next choose a typical setup.</p>
+<img src="https://i.imgur.com/ufZb3kE.png" height = "60%" width="60%" alt="Disk Sanitization Steps"/>
+<p>And click install.</p>
+<img src="https://i.imgur.com/ebP6wRv.png" height = "60%" width="60%" alt="Disk Sanitization Steps"/>
 
 <p>Step 11:</p>
-<p>Open the MySQL application and select Standard Configuration. Next, choose Install as a Windows Service and select Modify Security Settings to create a root password. Be sure to write down your root password. Finally, click Execute to start the setup and Finish to complete the configuration process.</p>
-<img src="https://i.imgur.com/D3wnvYm.png" height = "60%" width="60%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/BBTb6SD.png" height = "60%" width="60%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/xFeQDgn.png" height = "60%" width="60%" alt="Disk Sanitization Steps"/>
+<p>Once the mySQL server configurator opens, click next until you get to the Accounts and Roles tab. Once in this tab, create a root password for the mySQL server. Make sure to write down this password.</p>
+<img src="https://i.imgur.com/GrwXj6A.png" height = "60%" width="60%" alt="Disk Sanitization Steps"/>
+<p>Click next and make sure to run the window service as a standard system account.</p>
+<img src="https://i.imgur.com/qBNtlUS.png" height = "60%" width="60%" alt="Disk Sanitization Steps"/>
+<p>Click Next until you get to the apply configuration tab, and click Execute. Once the configuration is done executing. Finish the con</p>
+<img src="https://i.imgur.com/Rd4Wx9w.png" height = "60%" width="60%" alt="Disk Sanitization Steps"/>
 
-<p>Step 13:</p>
+
+<p>Step 12:</p>
 <p>Open IIS as an administrator.</p>
 <img src="https://i.imgur.com/u0duRYQ.png" height = "80%" width="80%" alt="Disk Sanitization Steps"/>
 
