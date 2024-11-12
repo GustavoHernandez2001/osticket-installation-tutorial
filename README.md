@@ -66,23 +66,23 @@ Start by opening the Control Panel, then click on Programs, followed by Programs
 <img src="https://i.imgur.com/7QUVVp3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/ITojMXZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<p>Step 8:</p>
-<p>Download the latest 32-bit PHP distribution package from the official PHP website for Windows, ensuring it matches your system architecture. </p>
-<img src="https://i.imgur.com/JQEMwR5.png" height = "60%" width="60%" alt="Disk Sanitization Steps"/>
+<p>Step 7:</p>
+<p>Download the 8.1.30 x64 PHP distribution package from the official PHP website for Windows. </p>
+<img src="https://i.imgur.com/TTr7NHg.png" height = "60%" width="60%" alt="Disk Sanitization Steps"/>
 
-<p>Step 9:</p>
+<p>Step 8:</p>
 <p>Right-click on the PHP distribution package, select Extract All..., and choose the PHP directory on your C drive as the destination for the extracted files.</p>
 <img src="https://i.imgur.com/S5Mzq6F.png" height = "60%" width="60%" alt="Disk Sanitization Steps"/>
 
-<p>Step 10:</p>
+<p>Step 9:</p>
 <p>Download the latest supported Microsoft Visual C++ Redistributable from the provided list of prerequisites, then follow the installation instructions to set it up on your system, ensuring that all necessary configurations are completed for proper functionality."</p>
-<img src="https://i.imgur.com/0gfo0ch.png" height = "60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AD3mXD1.png" height = "60%" width="60%" alt="Disk Sanitization Steps"/>
+
+<p>Step 10:</p>
+<p>Download the latest MySQL from the provided list of requisites, and follow the installation instructions making sure to select a typical setup.</p>
+<img src="https://i.imgur.com/KT0rBr8.png" height = "60%" width="60%" alt="Disk Sanitization Steps"/>
 
 <p>Step 11:</p>
-<p>Download MySQL from the provided list of requisites, making sure to select the 5.5.62 version, and follow the installation instructions making sure to select a typical setup.</p>
-<img src="https://i.imgur.com/rJVqVYW.png" height = "60%" width="60%" alt="Disk Sanitization Steps"/>
-
-<p>Step 12:</p>
 <p>Open the MySQL application and select Standard Configuration. Next, choose Install as a Windows Service and select Modify Security Settings to create a root password. Be sure to write down your root password. Finally, click Execute to start the setup and Finish to complete the configuration process.</p>
 <img src="https://i.imgur.com/D3wnvYm.png" height = "60%" width="60%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/BBTb6SD.png" height = "60%" width="60%" alt="Disk Sanitization Steps"/>
