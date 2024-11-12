@@ -79,7 +79,7 @@ Start by opening the Control Panel, then click on Programs, followed by Programs
 <img src="https://i.imgur.com/0gfo0ch.png" height = "60%" width="60%" alt="Disk Sanitization Steps"/>
 
 <p>Step 11:</p>
-<p>Download the MySQL from the provided list of requisites, making sure to select the 5.5.62 version, and follow the installation instructions making sure to select a typical setup.</p>
+<p>Download MySQL from the provided list of requisites, making sure to select the 5.5.62 version, and follow the installation instructions making sure to select a typical setup.</p>
 <img src="https://i.imgur.com/rJVqVYW.png" height = "60%" width="60%" alt="Disk Sanitization Steps"/>
 
 <p>Step 12:</p>
@@ -180,7 +180,7 @@ Start by opening the Control Panel, then click on Programs, followed by Programs
 <p>Step 25:</p>
 <p>Once you're in HeidiSQL, click "New" to create a session.</p>
 <img src="https://i.imgur.com/I51JBsw.png" height = "50%" width="50%" alt="Disk Sanitization Steps"/>
-<p>You will find yourself in a screen like the image below. Next, input the password from the MySQL server we made in step 12. Lastly press open to connect to the session.</p>
+<p>You will find yourself in a screen like the image below. Next, input the password from the MySQL server we made in step 12. Lastly, press open to connect to the session.</p>
 <img src="https://i.imgur.com/cu3n20J.png" height = "50%" width="50%" alt="Disk Sanitization Steps"/>
 
 <p>Step 26:</p>
@@ -190,11 +190,12 @@ Start by opening the Control Panel, then click on Programs, followed by Programs
 <img src="https://i.imgur.com/Ftm9pk1.png" height = "50%" width="50%" alt="Disk Sanitization Steps"/>
 
 <p>Step 27:</p>
+<p>Go back or reopen the osTicket installer and click continue.</p>
+<img src="https://i.imgur.com/iWtHv8u.png" height = "50%" width="50%" alt="Disk Sanitization Steps"/>
+<p>Configure osTicket to your liking, however, make sure that the MySQL Database name is osTicket, and the MySQL username and password are the once you configured for the MySQL database in step 12.</p>
+<img src="https://i.imgur.com/Qzp40K6.png" height = "50%" width="50%" alt="Disk Sanitization Steps"/>
 
-
-
-
-
+<p>Congrats, You have installed osTicket. You can now create a ticket using http://localhost/osTicket/. Or login into the agent portal using http://localhost/osTicket/scp/login.php.</p>
 
 
 
