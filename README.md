@@ -24,6 +24,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - <a href="https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#latest-microsoft-visual-c-redistributable-version">Visual C++ Redistributable</a>
 - <a href="https://downloads.mysql.com/archives/community/">MySQL</a>
 - <a href="https://osticket.com/download/">osTicket</a>
+- <a href="https://www.heidisql.com/download.php">HeidiSQL</a>
 
 <h2>Installation Steps</h2>
 <p>Step 1:</p>
@@ -171,21 +172,24 @@ Start by opening the Control Panel, then click on Programs, followed by Programs
 <img src="https://i.imgur.com/b51Mva2.png" height = "50%" width="50%" alt="Disk Sanitization Steps"/>
 
 <p>Step 24:</p>
-<p></p>
+<p>Download HeidiSQL from the list of prerequisites and follow all the steps to complete the installation.</p>
+<img src="https://i.imgur.com/qqj86ml.png" height = "50%" width="50%" alt="Disk Sanitization Steps"/>
+<p>Once the application is installed, it should look like the application below.</p>
+<img src="https://i.imgur.com/5P887Rt.png" height = "50%" width="50%" alt="Disk Sanitization Steps"/>
 
+<p>Step 25:</p>
+<p>Once you're in HeidiSQL, click "New" to create a session.</p>
+<img src="https://i.imgur.com/I51JBsw.png" height = "50%" width="50%" alt="Disk Sanitization Steps"/>
+<p>You will find yourself in a screen like the image below. Next, input the password from the MySQL server we made in step 12. Lastly press open to connect to the session.</p>
+<img src="https://i.imgur.com/cu3n20J.png" height = "50%" width="50%" alt="Disk Sanitization Steps"/>
 
+<p>Step 26:</p>
+<p>Once you are connected to the session. Right-click the session which is called Unnamed, press 'create new', and then press "database".</p>
+<img src="https://i.imgur.com/3rMTbKH.png" height = "50%" width="50%" alt="Disk Sanitization Steps"/>
+<p>Name the new Database "osTicket", and press ok.</p>
+<img src="https://i.imgur.com/Ftm9pk1.png" height = "50%" width="50%" alt="Disk Sanitization Steps"/>
 
-
-
-
-
-
-
-
-
-
-
-
+<p>Step 27:</p>
 
 
 
