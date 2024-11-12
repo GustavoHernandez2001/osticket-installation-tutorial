@@ -64,6 +64,7 @@ Start by opening the Control Panel, then click on Programs, followed by Programs
 <p>Step 6:</p>
 <p>Navigate to the C drive by opening File Explorer and selecting This PC or Computer. Once you are in the C drive, right-click in an empty space and choose New > Folder. Name the new folder PHP and press Enter to create the directory.</p>
 <img src="https://i.imgur.com/7QUVVp3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>It should end up looking like the image below.</p>
 <img src="https://i.imgur.com/ITojMXZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p>Step 7:</p>
