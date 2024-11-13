@@ -117,7 +117,7 @@ Start by opening the Control Panel, then click on Programs, followed by Programs
 
 
 <p>Step 15:</p>
-<p>Click on the </p>
+<p>"Click on osTicket in the list of prerequisites, then download the v1.18.1 file."</p>
 <img src="https://i.imgur.com/8OEk1yE.png" height = "90%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/nsuZtao.png" height = "90%" width="80%" alt="Disk Sanitization Steps"/>
 
