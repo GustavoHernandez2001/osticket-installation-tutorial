@@ -203,7 +203,7 @@ Start by opening the Control Panel, then click on Programs, followed by Programs
 <img src="https://i.imgur.com/Ftm9pk1.png" height = "50%" width="50%" alt="Disk Sanitization Steps"/>
 
 <p>Step 26:</p>
-<p>Go back or reopen the osTicket installer and click continue.</p>
+<p>Go back to the osTicket installer and click continue.</p>
 <img src="https://i.imgur.com/iWtHv8u.png" height = "50%" width="50%" alt="Disk Sanitization Steps"/>
 <p>Configure osTicket to your liking, however, make sure that the MySQL Database name is osTicket, and the MySQL username and password are the once you configured for the MySQL database in step 12.</p>
 <img src="https://i.imgur.com/Qzp40K6.png" height = "50%" width="50%" alt="Disk Sanitization Steps"/>
