@@ -208,7 +208,9 @@ Start by opening the Control Panel, then click on Programs, followed by Programs
 <p>Configure osTicket to your liking, however, make sure that the MySQL Database name is osTicket, and the MySQL username and password are the once you configured for the MySQL database in step 12.</p>
 <img src="https://i.imgur.com/Qzp40K6.png" height = "50%" width="50%" alt="Disk Sanitization Steps"/>
 
-<p>Congrats, You have installed osTicket. You can now create a ticket using http://localhost/osTicket/. Or login into the agent portal using http://localhost/osTicket/scp/login.php.</p>
+<p>Congrats, You have installed osTicket.</p>
+<p>You can now create a ticket using http://localhost/osTicket/.</p>
+<p> Or login into the agent portal using http://localhost/osTicket/scp/login.php.</p>
 
 
 
