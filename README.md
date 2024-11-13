@@ -164,12 +164,12 @@ Start by opening the Control Panel, then click on Programs, followed by Programs
 <p>Refresh the osTicket web browser to see the changes. If not try to reload the IIS manager.</p>
 
 <p>Step 22:</p>
-<p>First, open File Explorer on your computer. In the address bar at the top, type C:\inetpub and press Enter. Once there, open the wwwroot folder, then navigate to the osTicket folder inside it. Finally, open the include folder. Now you’re in C:\inetpub\wwwroot\osTicket\include.</p>
-<p>Once in the include folder, right click the "ost-sampleconfig.php" and rename it to "ost-config.php. When done it should look like the example below</p>
+<p>Open File Explorer on your computer. Navigate to the C drive, then open the inetpub folder. Once there, open the wwwroot folder, then navigate to the osTicket folder. Finally, open the include folder.</p>
+<p>In the include folder, right click the "ost-sampleconfig.php" and rename it to "ost-config.php. When done it should look like the example below</p>
 <img src="https://i.imgur.com/CNd129C.png" height = "70%" width="70%" alt="Disk Sanitization Steps"/>
 <p>Right-click a file and click Properties. You will see details about the file, including its size, type, location, date created, and date modified. Click the Security tab and click Advanced. </p>
 <img src="https://i.imgur.com/xU3ZbvZ.png" height = "50%" width="50%" alt="Disk Sanitization Steps"/>
-<p>This will open the Advanced Security Settings window, where you can adjust detailed permissions, view the file's ownership, and manage special permissions and auditing settings. Click Disable inheritance in the Advanced Security Settings window. This option will let you manage permissions independently by stopping the file or folder from automatically inheriting permissions from its parent folder. After clicking Disable inheritance, select Remove all inherited permissions from this object.</p>
+<p>This will open the Advanced Security Settings window, where you can adjust detailed permissions, view the file's ownership, and manage special permissions and auditing settings. Click Disable inheritance in the Advanced Security Settings window. After clicking Disable inheritance, select Remove all inherited permissions from this object.</p>
 <img src="https://i.imgur.com/7zfVs4c.png" height = "50%" width="50%" alt="Disk Sanitization Steps"/>
 <p>Next, click Add to create a new permission entry.</p>
 <img src="https://i.imgur.com/CpMxOb4.png" height = "50%" width="50%" alt="Disk Sanitization Steps"/>
