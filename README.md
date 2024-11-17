@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Installation Tutorial</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket Version 1.18.1.<br />
+This osTicket tutorial, inspired by CourseCareers' hands-on approach, guides learners through deploying and configuring osTicket v1.18.1 using Microsoft IIS, PHP (8.1-8.2), and MySQL (5.5+).<br />
 
 <h2>Environments and Technologies Used</h2>
 
